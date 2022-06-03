@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EricPy
-- 👀 I’m interested in Quantitative Trading
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a Trading Algorithm
+- 👀 I’m interested in creating tools and applications that help people make better financial decisions 
+- 🌱 I’m currently learning Tkinter GUIs
+- 💞️ I’m looking to collaborate on any web application ideas that use Django to handle the back-end
 - 📫 You can reach me on https://www.linkedin.com/in/eric-jansen-a422b11a5/
 
 <!---
