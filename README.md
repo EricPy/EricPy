@@ -8,7 +8,7 @@ Master of Science in Quantitative Finance student at Singapore Management Univer
 - Credit Risk Underwriter Intern, PT Atradius Information Services (Jan – Jul 2026)
 - Research Intern, Bank Indonesia (Jan – Mar 2025)
 
-## 📊 Projects (being added to my repositories)
+## 📊 Quant Projects
 - SMA crossover backtest on crypto (BTC, ETH, XRP)
 - Mean-variance, ridge and factor-neutral portfolios on KO and PEP
 - Pairs trading on crypto, replicating Gatev, Goetzmann and Rouwenhorst
